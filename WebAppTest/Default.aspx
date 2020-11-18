@@ -2,6 +2,6 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
-  <h2>CICI Pipelin</h2>
+  <h2>CICI Pipeline</h2>
 
 </asp:Content>
